@@ -1,2 +1,0 @@
-# New-Class
-Class Assignment
